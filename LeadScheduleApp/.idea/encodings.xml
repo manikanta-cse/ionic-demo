@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/www/app/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/app/game/game.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/app/home/home.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/app/home/league-ctrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/app/home/leagues.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/app/home/myteams.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/app/layout/menu-layout.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/app/locations/locations.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/app/rules/rules.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/app/services/eliteApi.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/app/standings/standings.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/app/teams/team-detail-ctrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/app/teams/team-detail.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/app/teams/teams-ctrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/app/teams/teams.html" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
